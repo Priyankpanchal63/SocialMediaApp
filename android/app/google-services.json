@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855209532988",
+    "project_id": "demosocial-1ae8b",
+    "storage_bucket": "demosocial-1ae8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855209532988:android:de640e56a678c85c9aed39",
+        "android_client_info": {
+          "package_name": "com.xyz.demo_social"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJxtwDgxXizi0A2QWh2CAaNJcF-jg1Y7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
